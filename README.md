@@ -1,1 +1,3 @@
-There currently isn't any finished releases of the game.
+**Credits**
+
+mjv2011, jgoze123 :)
