@@ -1,2 +1,1 @@
-# projects.hatland.rblxproject92327
-A Hatland Studio project in Roblox Studio.
+There currently isn't any finished releases of the game.
